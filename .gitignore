@@ -17,3 +17,5 @@ installed.cfg
 *.egg
 MANIFEST
 csv/
+
+*.spec
